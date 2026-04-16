@@ -1,0 +1,20 @@
+{
+  "name": "weather-dashboard",
+  "version": "1.0.0",
+  "description": "A React application that fetches weather information from OpenWeather API",
+  "main": "src/main.jsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/arilson1984-arch/weather-dashboard"
+}
